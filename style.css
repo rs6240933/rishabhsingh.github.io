@@ -95,7 +95,10 @@
  	 border-bottom: 1px solid white;
  }
 
-
+#nav{
+	position:absolute;
+	width:100%;z-index:1;
+}
 
 
 
